@@ -1,0 +1,12 @@
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print("Square root of given double");
+		Math.sqrt(900.0);
+		System.out.println(Math.sqrt(900.0));
+
+	}
+
+}

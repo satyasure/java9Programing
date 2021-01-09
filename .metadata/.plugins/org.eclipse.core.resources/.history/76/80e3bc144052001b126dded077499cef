@@ -1,0 +1,11 @@
+
+public class MaximumFinder {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.print("Maximum of of given Numbers (doubles):");
+//		Math.sqrt(900.0);
+		System.out.println(Math.max(1000.00, 1000.000));
+	}
+
+}
